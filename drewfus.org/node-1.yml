@@ -1,0 +1,6 @@
+---
+ssh_authorized_keys:
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDH3AT77Mn5ykwrFmQsX7pTmtBPHJ+BAHMRABfFUdsgXdgtom4D+zdkUdbTA3GpeDPUFb5bKAyV8ryhvb4X+TWMm+RBk4RBZMhVyDnQz/jVxO1Q9f7cth1enoCfY+4mInmpn08z5YL1KsAR39fV9RIYrJHDPDiVLdk+c7kDPLAkFa3oiJkuF6Qo6t9BPtLYww+Oh3B6I3+qisFQuZcDfKSCL6LKTeCJ9od9UZ33ZGJ1QJR8VDorAqSspPe7WuWtlfMDDgQo45h+1O+mZAWqeFKOm/ZwXleFisjMHbLSTByOLovbPwbozhjBtI3bQC4qoOREKBBavFrenZYx/36uOVsf drew@Andrews-MBP-2.drewfus.org
+
+hostname: node-1.drewfus.org
+
